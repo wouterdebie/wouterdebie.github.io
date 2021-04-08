@@ -112,10 +112,10 @@ Architecture: amd64
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
 Installed-Size: 9367
 Filename: ./locast2tuner_0.1.6_amd64.deb
-Size: 2842626
-MD5sum: e3bc580f4dce045f553149c39f25d525
-SHA1: c48eb5f2efc18f1c08903cdc9dfea7ed34eb04c0
-SHA256: 3196220fac2052a5f1a311578fcaa00f2e9fccacafa6102ee2b65ddc001f633e
+Size: 2842702
+MD5sum: 86856c48ae5350e82b81e9bbe61d728a
+SHA1: d22f93e112df61245c796176bb1a26ffdcb27092
+SHA256: 5570d0cef3b61a608d20b54da264f2c44859e06f36262e2ce791938f1b3f7898
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
