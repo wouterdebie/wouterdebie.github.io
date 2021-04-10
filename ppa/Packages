@@ -148,10 +148,10 @@ Architecture: amd64
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
 Installed-Size: 9367
 Filename: ./locast2tuner_0.1.7_amd64.deb
-Size: 2844406
-MD5sum: 62dbae857236429733295d82137061a7
-SHA1: 34b4e19423502ca93fd6baa605001073dcc9a81e
-SHA256: ae86c332c33b0dcd3fb1150c69c42cfbcf17703c07ca21f4a5e8e782aca642c3
+Size: 2843290
+MD5sum: 9eb624d81b848e3f19aac5984122f7d0
+SHA1: bc42b0b5206e0f434cba617a5f93120d7656cc34
+SHA256: dd1f0e4e0fb7662287bc800906964ff08bf16470df1fe7ff955e39b890a050f0
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -166,10 +166,10 @@ Architecture: armhf
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
 Installed-Size: 7728
 Filename: ./locast2tuner_0.1.7_armhf.deb
-Size: 2625316
-MD5sum: ea9a17a738a6e9bb8250d74a21f67638
-SHA1: a99e7fac3da9cee658a15ff94df8e5fd490b3c75
-SHA256: 1f15d42c55a9d7ba9e117e4b7e7b6c1102962ee4e7aab802e5e217bafe6d7196
+Size: 2625226
+MD5sum: d26eafa09145fca1a3d3ec1aa6787722
+SHA1: 94e0290a77cb9f897ac17fd4bc8b56021e8445b9
+SHA256: bc644b7a3859b39f2ec5a13c895266095d5eb8f7adea0a29d2d52c3b864f7b1f
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
