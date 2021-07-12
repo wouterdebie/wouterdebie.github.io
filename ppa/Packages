@@ -72,24 +72,6 @@ Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
 Version: 0.1.11
-Architecture: amd64
-Maintainer: Wouter de Bie <wouter@evenflow.nl>
-Installed-Size: 9376
-Filename: ./locast2tuner_0.1.11_amd64.deb
-Size: 2845062
-MD5sum: d974f07752a915d28771a056977c00e2
-SHA1: 5ff74c61d4d3a7964020ec858fc39923305bb788
-SHA256: f708e42a2a15b649572b4d838d33e3ea22213c292b4c0696ffdc53637627f19a
-Section: utility
-Priority: optional
-Description: Locast.org to Plex Media Server/Emby integration server
- Locast.org to Plex Media Server/Emby integration server
-Standards-Version: 3.9.4
-Vcs-Browser: https://github.com/wouterdebie/locast2tuner
-Vcs-Git: https://github.com/wouterdebie/locast2tuner
-
-Package: locast2tuner
-Version: 0.1.11
 Architecture: armhf
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
 Installed-Size: 7733
@@ -107,15 +89,15 @@ Vcs-Browser: https://github.com/wouterdebie/locast2tuner
 Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
-Version: 0.1.12
+Version: 0.1.11
 Architecture: amd64
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
-Installed-Size: 9379
-Filename: ./locast2tuner_0.1.12_amd64.deb
-Size: 2847846
-MD5sum: afb882a2f23f619d222bde6c14e1c48c
-SHA1: ff7f862374046d643c6d860afd71c25989ef5c57
-SHA256: 36356b57df1639a95569d77aa67fb8787a51a9d435403a2aed010416047b454c
+Installed-Size: 9376
+Filename: ./locast2tuner_0.1.11_amd64.deb
+Size: 2845062
+MD5sum: d974f07752a915d28771a056977c00e2
+SHA1: 5ff74c61d4d3a7964020ec858fc39923305bb788
+SHA256: f708e42a2a15b649572b4d838d33e3ea22213c292b4c0696ffdc53637627f19a
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -143,15 +125,15 @@ Vcs-Browser: https://github.com/wouterdebie/locast2tuner
 Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
-Version: 0.1.13
+Version: 0.1.12
 Architecture: amd64
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
 Installed-Size: 9379
-Filename: ./locast2tuner_0.1.13_amd64.deb
-Size: 2845534
-MD5sum: 4ccfb31f73678be3c9e7fa6f147358cf
-SHA1: 375a68350e333907d0ea2a812916b4600da7b32f
-SHA256: 56c1fdc2126e508fe6306e8f21a77e86eae2d5591cbcff8fef453ef38ab178f3
+Filename: ./locast2tuner_0.1.12_amd64.deb
+Size: 2847846
+MD5sum: afb882a2f23f619d222bde6c14e1c48c
+SHA1: ff7f862374046d643c6d860afd71c25989ef5c57
+SHA256: 36356b57df1639a95569d77aa67fb8787a51a9d435403a2aed010416047b454c
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -179,15 +161,15 @@ Vcs-Browser: https://github.com/wouterdebie/locast2tuner
 Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
-Version: 0.1.15
+Version: 0.1.13
 Architecture: amd64
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
-Installed-Size: 9384
-Filename: ./locast2tuner_0.1.15_amd64.deb
-Size: 2848580
-MD5sum: 0f48543be67cfe8507b7cf33c8db72de
-SHA1: aab03b2fda1f03913fbf3ad21575d9edf4c70bf5
-SHA256: 33a869b5e4abb63188c9fe2e95b7186039b051941e230598e5e3663cf9ae9946
+Installed-Size: 9379
+Filename: ./locast2tuner_0.1.13_amd64.deb
+Size: 2845534
+MD5sum: 4ccfb31f73678be3c9e7fa6f147358cf
+SHA1: 375a68350e333907d0ea2a812916b4600da7b32f
+SHA256: 56c1fdc2126e508fe6306e8f21a77e86eae2d5591cbcff8fef453ef38ab178f3
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -215,15 +197,15 @@ Vcs-Browser: https://github.com/wouterdebie/locast2tuner
 Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
-Version: 0.1.16
+Version: 0.1.15
 Architecture: amd64
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
-Installed-Size: 9400
-Filename: ./locast2tuner_0.1.16_amd64.deb
-Size: 2853832
-MD5sum: 8644c79cbee82db21439fd8527d670e7
-SHA1: aebfb1741c404c4bc54902c27fedc3d4d6271f8c
-SHA256: e4e523641814a88cbaee7d7d8b239a90d43b6c69fa56d0860470672c85482410
+Installed-Size: 9384
+Filename: ./locast2tuner_0.1.15_amd64.deb
+Size: 2848580
+MD5sum: 0f48543be67cfe8507b7cf33c8db72de
+SHA1: aab03b2fda1f03913fbf3ad21575d9edf4c70bf5
+SHA256: 33a869b5e4abb63188c9fe2e95b7186039b051941e230598e5e3663cf9ae9946
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -242,6 +224,24 @@ Size: 2630942
 MD5sum: 1f7ba2d52bd6089b25cc31f25b37cf8b
 SHA1: 24ce7bc07325c67e11b82f90f57dc52f6640163e
 SHA256: 890b49114bfaab9258330b27401d27b3bfb122549d253d0fd536bc496b91184c
+Section: utility
+Priority: optional
+Description: Locast.org to Plex Media Server/Emby integration server
+ Locast.org to Plex Media Server/Emby integration server
+Standards-Version: 3.9.4
+Vcs-Browser: https://github.com/wouterdebie/locast2tuner
+Vcs-Git: https://github.com/wouterdebie/locast2tuner
+
+Package: locast2tuner
+Version: 0.1.16
+Architecture: amd64
+Maintainer: Wouter de Bie <wouter@evenflow.nl>
+Installed-Size: 9400
+Filename: ./locast2tuner_0.1.16_amd64.deb
+Size: 2853832
+MD5sum: 8644c79cbee82db21439fd8527d670e7
+SHA1: aebfb1741c404c4bc54902c27fedc3d4d6271f8c
+SHA256: e4e523641814a88cbaee7d7d8b239a90d43b6c69fa56d0860470672c85482410
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -288,14 +288,14 @@ Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
 Version: 0.1.18
-Architecture: amd64
+Architecture: armhf
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
-Installed-Size: 9456
-Filename: ./locast2tuner_0.1.18_amd64.deb
-Size: 2869368
-MD5sum: c73b4bf6c781c5dc7316cec24aa2ae6d
-SHA1: 5af847161ab9682814921598de015eb38fdfb086
-SHA256: d0e8f4c093e0835c924a9952d238cce5f53397567a9d9f00ea8b51a498279ebe
+Installed-Size: 7821
+Filename: ./locast2tuner_0.1.18_armhf.deb
+Size: 2641566
+MD5sum: 2d4e1859b2728be387c6291e8106ad0e
+SHA1: dcbd0b29eccd606d214dd03fe168aeba149d3c7e
+SHA256: ba93245053ab9970f89509a53a04e51346afeee04a5e8979b517d4acaecbb0ba
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -306,14 +306,14 @@ Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
 Version: 0.1.18
-Architecture: armhf
+Architecture: amd64
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
-Installed-Size: 7821
-Filename: ./locast2tuner_0.1.18_armhf.deb
-Size: 2641566
-MD5sum: 2d4e1859b2728be387c6291e8106ad0e
-SHA1: dcbd0b29eccd606d214dd03fe168aeba149d3c7e
-SHA256: ba93245053ab9970f89509a53a04e51346afeee04a5e8979b517d4acaecbb0ba
+Installed-Size: 9456
+Filename: ./locast2tuner_0.1.18_amd64.deb
+Size: 2869368
+MD5sum: c73b4bf6c781c5dc7316cec24aa2ae6d
+SHA1: 5af847161ab9682814921598de015eb38fdfb086
+SHA256: d0e8f4c093e0835c924a9952d238cce5f53397567a9d9f00ea8b51a498279ebe
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -378,14 +378,14 @@ Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
 Version: 0.1.20
-Architecture: amd64
+Architecture: armhf
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
-Installed-Size: 9661
-Filename: ./locast2tuner_0.1.20_amd64.deb
-Size: 2917694
-MD5sum: a259e5a9c0e920e5b9bb8efdab0621b7
-SHA1: 2aaf4449def84676d168930847c83e3f36e8736e
-SHA256: 097df6ea1160feed47da31a3dcd1bce887119bd6695f38a2aeef9256055f347c
+Installed-Size: 8018
+Filename: ./locast2tuner_0.1.20_armhf.deb
+Size: 2693356
+MD5sum: e6740d3f8379976a5a97243162d72d20
+SHA1: 5e2a1ca0b7a61f179ce75c6e36d5619014509d59
+SHA256: a6971f60ebd432d832a0ec4502599c94689f2550ce0cb3e56be81c63afe99aaa
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -396,14 +396,14 @@ Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
 Version: 0.1.20
-Architecture: armhf
+Architecture: amd64
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
-Installed-Size: 8018
-Filename: ./locast2tuner_0.1.20_armhf.deb
-Size: 2693356
-MD5sum: e6740d3f8379976a5a97243162d72d20
-SHA1: 5e2a1ca0b7a61f179ce75c6e36d5619014509d59
-SHA256: a6971f60ebd432d832a0ec4502599c94689f2550ce0cb3e56be81c63afe99aaa
+Installed-Size: 9661
+Filename: ./locast2tuner_0.1.20_amd64.deb
+Size: 2917694
+MD5sum: a259e5a9c0e920e5b9bb8efdab0621b7
+SHA1: 2aaf4449def84676d168930847c83e3f36e8736e
+SHA256: 097df6ea1160feed47da31a3dcd1bce887119bd6695f38a2aeef9256055f347c
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -486,14 +486,14 @@ Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
 Version: 0.1.23
-Architecture: amd64
+Architecture: armhf
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
-Installed-Size: 9661
-Filename: ./locast2tuner_0.1.23_amd64.deb
-Size: 2916358
-MD5sum: 86d93cba7cd1eace6107da9c3bb0c0b6
-SHA1: df0515414b7edbbd1ab733e361a18baf8d829cf9
-SHA256: e870839d5eddd276bf489385abc64250889920d71a97da2024c0015453d374a1
+Installed-Size: 8018
+Filename: ./locast2tuner_0.1.23_armhf.deb
+Size: 2693192
+MD5sum: a8fb2e2fd88eeec7ae0e579d208b736a
+SHA1: af11d889ebf271b5493d348ee2f9fd510887d078
+SHA256: ff8d0ece10cb4984b32cad6de6ce73c8b141db9bf9be263bb954a3e6e0016a11
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -504,14 +504,14 @@ Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
 Version: 0.1.23
-Architecture: armhf
+Architecture: amd64
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
-Installed-Size: 8018
-Filename: ./locast2tuner_0.1.23_armhf.deb
-Size: 2693192
-MD5sum: a8fb2e2fd88eeec7ae0e579d208b736a
-SHA1: af11d889ebf271b5493d348ee2f9fd510887d078
-SHA256: ff8d0ece10cb4984b32cad6de6ce73c8b141db9bf9be263bb954a3e6e0016a11
+Installed-Size: 9661
+Filename: ./locast2tuner_0.1.23_amd64.deb
+Size: 2916358
+MD5sum: 86d93cba7cd1eace6107da9c3bb0c0b6
+SHA1: df0515414b7edbbd1ab733e361a18baf8d829cf9
+SHA256: e870839d5eddd276bf489385abc64250889920d71a97da2024c0015453d374a1
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -630,24 +630,6 @@ Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
 Version: 0.1.27
-Architecture: armhf
-Maintainer: Wouter de Bie <wouter@evenflow.nl>
-Installed-Size: 8014
-Filename: ./locast2tuner_0.1.27_armhf.deb
-Size: 2691966
-MD5sum: 00476641bbc2f905546bf5f9cb41f1d5
-SHA1: cdc540951a9645a6a013f3da6f95126d4bf4cd50
-SHA256: 07cd500e836f113c09515d8414418196b1e7b6427a95c054f307ce761efbe6be
-Section: utility
-Priority: optional
-Description: Locast.org to Plex Media Server/Emby integration server
- Locast.org to Plex Media Server/Emby integration server
-Standards-Version: 3.9.4
-Vcs-Browser: https://github.com/wouterdebie/locast2tuner
-Vcs-Git: https://github.com/wouterdebie/locast2tuner
-
-Package: locast2tuner
-Version: 0.1.27
 Architecture: amd64
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
 Installed-Size: 9661
@@ -665,15 +647,15 @@ Vcs-Browser: https://github.com/wouterdebie/locast2tuner
 Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
-Version: 0.1.28
+Version: 0.1.27
 Architecture: armhf
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
-Installed-Size: 8018
-Filename: ./locast2tuner_0.1.28_armhf.deb
-Size: 2692438
-MD5sum: 4453787b8f8d777bcfb0ab49bcb24216
-SHA1: 98037d8fb6eaad4ae61a7c1b8feee1db4d5b8fd6
-SHA256: 2b3d8442c825318c33e928e45d23053ebe62f1ba80709be9a7cd80cb30eabc7b
+Installed-Size: 8014
+Filename: ./locast2tuner_0.1.27_armhf.deb
+Size: 2691966
+MD5sum: 00476641bbc2f905546bf5f9cb41f1d5
+SHA1: cdc540951a9645a6a013f3da6f95126d4bf4cd50
+SHA256: 07cd500e836f113c09515d8414418196b1e7b6427a95c054f307ce761efbe6be
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -701,15 +683,15 @@ Vcs-Browser: https://github.com/wouterdebie/locast2tuner
 Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
-Version: 0.1.29
+Version: 0.1.28
 Architecture: armhf
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
 Installed-Size: 8018
-Filename: ./locast2tuner_0.1.29_armhf.deb
-Size: 2693172
-MD5sum: 237a5a70bf76038427bf037b45f2c706
-SHA1: a4691f35c7dcd5828ac7cdf87a8c8f87a87eb8e9
-SHA256: ef2cfa2dade628d5317d69ce4fd6a9fcf3dfa918925c9318debbd47a380ec132
+Filename: ./locast2tuner_0.1.28_armhf.deb
+Size: 2692438
+MD5sum: 4453787b8f8d777bcfb0ab49bcb24216
+SHA1: 98037d8fb6eaad4ae61a7c1b8feee1db4d5b8fd6
+SHA256: 2b3d8442c825318c33e928e45d23053ebe62f1ba80709be9a7cd80cb30eabc7b
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -728,6 +710,24 @@ Size: 2918834
 MD5sum: e8e98be621d5bb9fd03083a740ae23d7
 SHA1: 18582fd5778bf478b12621ad9c16ac8d7aa32041
 SHA256: d61734556e5b994a8f00a455af5a5e56998eb3abe0f61a6202d5b18141bfedc6
+Section: utility
+Priority: optional
+Description: Locast.org to Plex Media Server/Emby integration server
+ Locast.org to Plex Media Server/Emby integration server
+Standards-Version: 3.9.4
+Vcs-Browser: https://github.com/wouterdebie/locast2tuner
+Vcs-Git: https://github.com/wouterdebie/locast2tuner
+
+Package: locast2tuner
+Version: 0.1.29
+Architecture: armhf
+Maintainer: Wouter de Bie <wouter@evenflow.nl>
+Installed-Size: 8018
+Filename: ./locast2tuner_0.1.29_armhf.deb
+Size: 2693172
+MD5sum: 237a5a70bf76038427bf037b45f2c706
+SHA1: a4691f35c7dcd5828ac7cdf87a8c8f87a87eb8e9
+SHA256: ef2cfa2dade628d5317d69ce4fd6a9fcf3dfa918925c9318debbd47a380ec132
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -792,24 +792,6 @@ Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
 Version: 0.1.31
-Architecture: armhf
-Maintainer: Wouter de Bie <wouter@evenflow.nl>
-Installed-Size: 7966
-Filename: ./locast2tuner_0.1.31_armhf.deb
-Size: 2682822
-MD5sum: acacc30c204a186400875479c5886047
-SHA1: a60f8f9898f2d6dc59294bb14ef718daa2ecf8ae
-SHA256: c0b1659dc8e716ac00eeb27eb1c71d49e0e78914b34a72ee0262ac5e8001dcf1
-Section: utility
-Priority: optional
-Description: Locast.org to Plex Media Server/Emby integration server
- Locast.org to Plex Media Server/Emby integration server
-Standards-Version: 3.9.4
-Vcs-Browser: https://github.com/wouterdebie/locast2tuner
-Vcs-Git: https://github.com/wouterdebie/locast2tuner
-
-Package: locast2tuner
-Version: 0.1.31
 Architecture: amd64
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
 Installed-Size: 9637
@@ -827,15 +809,15 @@ Vcs-Browser: https://github.com/wouterdebie/locast2tuner
 Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
-Version: 0.1.32
+Version: 0.1.31
 Architecture: armhf
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
-Installed-Size: 7968
-Filename: ./locast2tuner_0.1.32_armhf.deb
-Size: 2682736
-MD5sum: 8a57f059693ed0843e5261601c1ddde4
-SHA1: 963ac2461fce611410d9cb3dd78ecb042ce38f1d
-SHA256: 9e67b3ebc6ca01e98cb4b29c6f9fd3b9db4d13d6c539b071f5d41be231b6a71b
+Installed-Size: 7966
+Filename: ./locast2tuner_0.1.31_armhf.deb
+Size: 2682822
+MD5sum: acacc30c204a186400875479c5886047
+SHA1: a60f8f9898f2d6dc59294bb14ef718daa2ecf8ae
+SHA256: c0b1659dc8e716ac00eeb27eb1c71d49e0e78914b34a72ee0262ac5e8001dcf1
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -854,6 +836,24 @@ Size: 2916010
 MD5sum: a0b291a73f8c9e7d04c5eef7632d7fe1
 SHA1: 758d0f22277c78e90f0a434e4730ab1c0b4b0b17
 SHA256: d56aeac9f9ab8f8e73b64960eff75d95ad34191c15e69101de1b01a3a7609334
+Section: utility
+Priority: optional
+Description: Locast.org to Plex Media Server/Emby integration server
+ Locast.org to Plex Media Server/Emby integration server
+Standards-Version: 3.9.4
+Vcs-Browser: https://github.com/wouterdebie/locast2tuner
+Vcs-Git: https://github.com/wouterdebie/locast2tuner
+
+Package: locast2tuner
+Version: 0.1.32
+Architecture: armhf
+Maintainer: Wouter de Bie <wouter@evenflow.nl>
+Installed-Size: 7968
+Filename: ./locast2tuner_0.1.32_armhf.deb
+Size: 2682736
+MD5sum: 8a57f059693ed0843e5261601c1ddde4
+SHA1: 963ac2461fce611410d9cb3dd78ecb042ce38f1d
+SHA256: 9e67b3ebc6ca01e98cb4b29c6f9fd3b9db4d13d6c539b071f5d41be231b6a71b
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -900,14 +900,14 @@ Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
 Version: 0.1.36
-Architecture: armhf
+Architecture: amd64
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
-Installed-Size: 7968
-Filename: ./locast2tuner_0.1.36_armhf.deb
-Size: 2684250
-MD5sum: 42b15f7b7c203e9f6fd6a5d8661095cc
-SHA1: 185514e78104169491b24c145efac5dd31294497
-SHA256: 6d6014c0b6ae178194bd09fe0ffce460f982b417b180c68ee30d02be46934f02
+Installed-Size: 9643
+Filename: ./locast2tuner_0.1.36_amd64.deb
+Size: 2919006
+MD5sum: d8da8a3b06d560c5c0c46ca0621dfe27
+SHA1: f69f998e8e600c254eb342f469474c6487df533c
+SHA256: 4c7c14af672e10e53fce48d444d9713f6a182a775498d34a2020457459ff723d
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -918,14 +918,14 @@ Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
 Version: 0.1.36
-Architecture: amd64
+Architecture: armhf
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
-Installed-Size: 9643
-Filename: ./locast2tuner_0.1.36_amd64.deb
-Size: 2919006
-MD5sum: d8da8a3b06d560c5c0c46ca0621dfe27
-SHA1: f69f998e8e600c254eb342f469474c6487df533c
-SHA256: 4c7c14af672e10e53fce48d444d9713f6a182a775498d34a2020457459ff723d
+Installed-Size: 7968
+Filename: ./locast2tuner_0.1.36_armhf.deb
+Size: 2684250
+MD5sum: 42b15f7b7c203e9f6fd6a5d8661095cc
+SHA1: 185514e78104169491b24c145efac5dd31294497
+SHA256: 6d6014c0b6ae178194bd09fe0ffce460f982b417b180c68ee30d02be46934f02
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -1062,14 +1062,14 @@ Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
 Version: 0.1.40
-Architecture: amd64
+Architecture: armhf
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
-Installed-Size: 9615
-Filename: ./locast2tuner_0.1.40_amd64.deb
-Size: 2905554
-MD5sum: 4fd4818289e827c8d0b02560763df9a7
-SHA1: 56169837804608398de7cda767f1edd174d7944c
-SHA256: 0db7117297b40a2654fdfe1e7f6abf6054fee2a83036f2b97e51d9dc8dab8173
+Installed-Size: 7936
+Filename: ./locast2tuner_0.1.40_armhf.deb
+Size: 2676396
+MD5sum: e44ac93a7fedfe1039c65c5af21b3951
+SHA1: 683f30e746d9f3360c1daf34b94279b822eba88f
+SHA256: 5f09bb0bb462e23642b90f78639438584b891b8ab295cbe353358e9729fb1ed7
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -1080,14 +1080,14 @@ Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
 Version: 0.1.40
-Architecture: armhf
+Architecture: amd64
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
-Installed-Size: 7936
-Filename: ./locast2tuner_0.1.40_armhf.deb
-Size: 2676396
-MD5sum: e44ac93a7fedfe1039c65c5af21b3951
-SHA1: 683f30e746d9f3360c1daf34b94279b822eba88f
-SHA256: 5f09bb0bb462e23642b90f78639438584b891b8ab295cbe353358e9729fb1ed7
+Installed-Size: 9615
+Filename: ./locast2tuner_0.1.40_amd64.deb
+Size: 2905554
+MD5sum: 4fd4818289e827c8d0b02560763df9a7
+SHA1: 56169837804608398de7cda767f1edd174d7944c
+SHA256: 0db7117297b40a2654fdfe1e7f6abf6054fee2a83036f2b97e51d9dc8dab8173
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -1134,6 +1134,24 @@ Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
 Version: 0.1.42
+Architecture: armhf
+Maintainer: Wouter de Bie <wouter@evenflow.nl>
+Installed-Size: 7968
+Filename: ./locast2tuner_0.1.42_armhf.deb
+Size: 2683370
+MD5sum: 3dfa1d0cb68200a4ad7ca76d9d261b51
+SHA1: ad488932609f701e7e8510dc2e76bea6013306a6
+SHA256: a95f119cc02a723da3ff05ed08cfe07552418b57fac8c148140df5213f3b4297
+Section: utility
+Priority: optional
+Description: Locast.org to Plex Media Server/Emby integration server
+ Locast.org to Plex Media Server/Emby integration server
+Standards-Version: 3.9.4
+Vcs-Browser: https://github.com/wouterdebie/locast2tuner
+Vcs-Git: https://github.com/wouterdebie/locast2tuner
+
+Package: locast2tuner
+Version: 0.1.42
 Architecture: amd64
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
 Installed-Size: 9643
@@ -1151,15 +1169,33 @@ Vcs-Browser: https://github.com/wouterdebie/locast2tuner
 Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
-Version: 0.1.42
+Version: 0.1.43
 Architecture: armhf
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
-Installed-Size: 7968
-Filename: ./locast2tuner_0.1.42_armhf.deb
-Size: 2683370
-MD5sum: 3dfa1d0cb68200a4ad7ca76d9d261b51
-SHA1: ad488932609f701e7e8510dc2e76bea6013306a6
-SHA256: a95f119cc02a723da3ff05ed08cfe07552418b57fac8c148140df5213f3b4297
+Installed-Size: 8028
+Filename: ./locast2tuner_0.1.43_armhf.deb
+Size: 2701426
+MD5sum: 6891261aed1e27f2e8a8f0af4ebd832d
+SHA1: 232f3288d023912c96a34d51586f359a05537c40
+SHA256: de94c1d07c2f60a468ba61ddb1b23212655ad96d261eaf9f1a5a448e6ad74c41
+Section: utility
+Priority: optional
+Description: Locast.org to Plex Media Server/Emby integration server
+ Locast.org to Plex Media Server/Emby integration server
+Standards-Version: 3.9.4
+Vcs-Browser: https://github.com/wouterdebie/locast2tuner
+Vcs-Git: https://github.com/wouterdebie/locast2tuner
+
+Package: locast2tuner
+Version: 0.1.43
+Architecture: amd64
+Maintainer: Wouter de Bie <wouter@evenflow.nl>
+Installed-Size: 9703
+Filename: ./locast2tuner_0.1.43_amd64.deb
+Size: 2934622
+MD5sum: b703fe7057e2aa38f92ee525f94595c5
+SHA1: 6aed337e14fb2c345a5e54b4a060c3dc63842e1a
+SHA256: bac04d748651fbe46ae7acd8346f9703239c7f8793dbf0a102af72b57a6b8c0b
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -1260,24 +1296,6 @@ Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
 Version: 0.1.8
-Architecture: amd64
-Maintainer: Wouter de Bie <wouter@evenflow.nl>
-Installed-Size: 9367
-Filename: ./locast2tuner_0.1.8_amd64.deb
-Size: 2844874
-MD5sum: 8c16e9586d72ea0c2226faabf3960942
-SHA1: 6a5f6a763b389ed66d1f92fcf09ea32b8bf63117
-SHA256: a08f2161eab493af42e43597b837b51c0fcc9691ad49fed7750451f7856e6f5b
-Section: utility
-Priority: optional
-Description: Locast.org to Plex Media Server/Emby integration server
- Locast.org to Plex Media Server/Emby integration server
-Standards-Version: 3.9.4
-Vcs-Browser: https://github.com/wouterdebie/locast2tuner
-Vcs-Git: https://github.com/wouterdebie/locast2tuner
-
-Package: locast2tuner
-Version: 0.1.8
 Architecture: armhf
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
 Installed-Size: 7732
@@ -1295,15 +1313,15 @@ Vcs-Browser: https://github.com/wouterdebie/locast2tuner
 Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
-Version: 0.1.9
+Version: 0.1.8
 Architecture: amd64
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
-Installed-Size: 9371
-Filename: ./locast2tuner_0.1.9_amd64.deb
-Size: 2846556
-MD5sum: d2b3100e1544cc9fc163b2ad1819ed33
-SHA1: 045aa5c2bf79107d76acd055121fecd7ce08bd39
-SHA256: 00d07659af9804ee91bfb22821c5ce1e29b760c2db70b1eacc4a369f6cf32876
+Installed-Size: 9367
+Filename: ./locast2tuner_0.1.8_amd64.deb
+Size: 2844874
+MD5sum: 8c16e9586d72ea0c2226faabf3960942
+SHA1: 6a5f6a763b389ed66d1f92fcf09ea32b8bf63117
+SHA256: a08f2161eab493af42e43597b837b51c0fcc9691ad49fed7750451f7856e6f5b
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
@@ -1322,6 +1340,24 @@ Size: 2623878
 MD5sum: a8f4bdbfa1685db0a436cdda1a5c1f7e
 SHA1: cd55378cf3ff802a13968ca57cabe4a554e35a66
 SHA256: cb79217a8a71546eed39248fcbbb83efaf4c65a3075ab34c1e1c443beb032dea
+Section: utility
+Priority: optional
+Description: Locast.org to Plex Media Server/Emby integration server
+ Locast.org to Plex Media Server/Emby integration server
+Standards-Version: 3.9.4
+Vcs-Browser: https://github.com/wouterdebie/locast2tuner
+Vcs-Git: https://github.com/wouterdebie/locast2tuner
+
+Package: locast2tuner
+Version: 0.1.9
+Architecture: amd64
+Maintainer: Wouter de Bie <wouter@evenflow.nl>
+Installed-Size: 9371
+Filename: ./locast2tuner_0.1.9_amd64.deb
+Size: 2846556
+MD5sum: d2b3100e1544cc9fc163b2ad1819ed33
+SHA1: 045aa5c2bf79107d76acd055121fecd7ce08bd39
+SHA256: 00d07659af9804ee91bfb22821c5ce1e29b760c2db70b1eacc4a369f6cf32876
 Section: utility
 Priority: optional
 Description: Locast.org to Plex Media Server/Emby integration server
