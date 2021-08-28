@@ -2174,6 +2174,57 @@ Vcs-Browser: https://github.com/wouterdebie/locast2tuner
 Vcs-Git: https://github.com/wouterdebie/locast2tuner
 
 Package: locast2tuner
+Version: 0.3.11
+Architecture: armhf
+Maintainer: Wouter de Bie <wouter@evenflow.nl>
+Installed-Size: 18913
+Filename: ./locast2tuner_0.3.11_armhf.deb
+Size: 4335616
+MD5sum: fbd67bd6c0db7aaacbbb9ab38fb2e7b8
+SHA1: 3804fdde61b02f9245b1bdd5175940e9cbc23dd0
+SHA256: 08c2989fd14dc3e35a4d8e949f72feede54075d13d9c03da12a0d13fac172311
+Section: utility
+Priority: optional
+Description: Locast.org to Plex Media Server/Emby integration server
+ Locast.org to Plex Media Server/Emby integration server
+Vcs-Browser: https://github.com/wouterdebie/locast2tuner
+Vcs-Git: https://github.com/wouterdebie/locast2tuner
+
+Package: locast2tuner
+Version: 0.3.11
+Architecture: arm64
+Maintainer: Wouter de Bie <wouter@evenflow.nl>
+Installed-Size: 28387
+Filename: ./locast2tuner_0.3.11_arm64.deb
+Size: 4955532
+MD5sum: 282cf419b417bb5be49c8c2de75868f9
+SHA1: 5a885ccf3f685d0eaf4dd64185081383787cf97f
+SHA256: a020bc915e7fd8ac3caac8705eb7d5f0689109fda8a8c344150bc234af3e8c47
+Section: utility
+Priority: optional
+Description: Locast.org to Plex Media Server/Emby integration server
+ Locast.org to Plex Media Server/Emby integration server
+Vcs-Browser: https://github.com/wouterdebie/locast2tuner
+Vcs-Git: https://github.com/wouterdebie/locast2tuner
+
+Package: locast2tuner
+Version: 0.3.11
+Architecture: amd64
+Maintainer: Wouter de Bie <wouter@evenflow.nl>
+Installed-Size: 29584
+Filename: ./locast2tuner_0.3.11_amd64.deb
+Size: 5377544
+MD5sum: 3b596bb3690c170715f714aac28d1a01
+SHA1: f6b9f4ce13b7f4308e371edde359f4ddcd22c213
+SHA256: ee020b1f5c2f34913bc84373bb23bc0cc068dca2d2dfa23f1da28421c4384b17
+Section: utility
+Priority: optional
+Description: Locast.org to Plex Media Server/Emby integration server
+ Locast.org to Plex Media Server/Emby integration server
+Vcs-Browser: https://github.com/wouterdebie/locast2tuner
+Vcs-Git: https://github.com/wouterdebie/locast2tuner
+
+Package: locast2tuner
 Version: 0.3.2
 Architecture: armhf
 Maintainer: Wouter de Bie <wouter@evenflow.nl>
